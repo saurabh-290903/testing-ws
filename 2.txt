@@ -1,1 +1,2 @@
 hello i am trying to do fetch in gitlocal 
+i am adding some more lines to define how fetch cmd work 
