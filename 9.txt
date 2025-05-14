@@ -1,2 +1,5 @@
  hello are you from 
+<<<<<<< HEAD
  are you sure about that are you from why it is 
+=======
+>>>>>>> 91e1c9f (v1 of 9)
